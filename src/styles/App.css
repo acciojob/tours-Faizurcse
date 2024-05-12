@@ -1,36 +1,15 @@
+
+
+
 h1 {
-  color: #27aedb;
-  text-align: center;
+    color: #27aedb;
+    text-align: center;
 }
 
+
 button {
-  color: #27aedb;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-}
-.main_conatiner {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  margin: 4px;
-  gap: 5;
-}
-.tour_container {
-  width: 400px;
-  border: 1px solid;
-  padding: 5px;
-}
-.box {
-  display: flex;
-  align-items: center;
-  gap: 12;
-}
-.box p {
-  font-size: 20px;
-  font-weight: 500;
-  margin-right: 12px;
-}
-.box span {
-  color: gray;
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
